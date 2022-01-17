@@ -7,7 +7,7 @@ Witold Borowiak
 
 Temat: Automatyczny saper
 
-#Subprojekt Zofia Bączyk
+# Podprojekt: Zofia Bączyk
 
 Decision classification and regression tree.
 <p>training_data to array złożona z trzech kolorów kabli A, B, C oraz cut czyli kabla do przecięcia.
