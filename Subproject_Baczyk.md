@@ -16,4 +16,8 @@ Bomba wyświetla przecięty kolor (wybór drzewa) oraz prawidłowy kolor w dolny
 
 ![image](https://drive.google.com/uc?export=viev&id=1xhcGOL14NPAdcNwpM1Wpd2fgQvnZhKm5)
 
+vs_saper_zb.py
+
 wykorzystano google developer tutorials
+
+
